@@ -1,0 +1,15 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: netty-demo
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+
+webSocket:
+  netty:
+    port: 58080
+    path: /webSocket
