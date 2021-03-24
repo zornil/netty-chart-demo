@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 
 
 /**
- * @author zyq
+ * @author zornil
  */
 @SpringBootApplication
 public class NettyApplication {

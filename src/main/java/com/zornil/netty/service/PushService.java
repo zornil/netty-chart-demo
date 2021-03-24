@@ -1,7 +1,7 @@
 package com.zornil.netty.service;
 
 /**
- * @author zyq
+ * @author zornil
  */
 public interface PushService {
     /**

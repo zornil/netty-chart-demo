@@ -9,7 +9,7 @@ import lombok.Data;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author zyq
+ * @author zornil
  */
 @Data
 public class NettyConfig {

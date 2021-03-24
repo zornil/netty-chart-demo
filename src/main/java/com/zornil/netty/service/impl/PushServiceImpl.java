@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author zyq
+ * @author zornil
  */
 @Service
 public class PushServiceImpl implements PushService {

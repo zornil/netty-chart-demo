@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * TextWebSocketFrame类型， 表示一个文本帧
- * @author zyq
+ * @author zornil
  */
 @Slf4j
 @Component
